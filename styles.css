@@ -1,6 +1,3 @@
-body {
-}
-
 h1 {
   text-align: center;
   font-family: "Lora", serif;
@@ -11,12 +8,18 @@ h2 {
   text-align: center;
   font-family: "Lora", serif;
 }
+img {
+  display: block;
+  width: 200px;
+  margin: 0px auto;
+  line-height: 20px;
+}
 
 .links {
   text-align: center;
 }
 
-.gihubLink {
+.opensource {
   text-align: center;
   font-family: "Lora", serif;
 }
