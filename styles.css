@@ -1,15 +1,22 @@
+body {
+  background-color: #f3f3f3;
+  margin: 200px 200px;
+  padding: 10px auto;
+}
 h1 {
   text-align: center;
   font-family: "Lora", serif;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 h2 {
   text-align: center;
   font-family: "Lora", serif;
+  font-weight: 400;
 }
 img {
-  display: block;
+  float: left;
+  border-radius: 50%;
   width: 200px;
   margin: 0px auto;
   line-height: 20px;
