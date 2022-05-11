@@ -2,11 +2,11 @@ body {
   text-align: center;
   background-color: #f3f3f3;
   margin: 200px 150px;
-  margin-top: 300px;
+  margin-top: 200px;
   padding: 10px auto;
+  font-family: "Lora", serif;
 }
 h1 {
-  font-family: "Lora", serif;
   font-weight: 700;
   font-size: 56px;
   margin-top: 40px;
@@ -14,12 +14,10 @@ h1 {
 }
 
 h2 {
-  font-family: "Lora", serif;
   font-weight: 600;
   font-size: 36px;
 }
 h3 {
-  font-family: "Lora", serif;
   font-weight: 400;
   font-size: 24px;
   margin-top: 25px;
@@ -34,11 +32,6 @@ img {
   line-height: 20px;
 }
 
-.links {
-  font-family: "Lora", serif;
-}
-
-.opensource {
+footer {
   text-align: center;
-  font-family: "Lora", serif;
 }
