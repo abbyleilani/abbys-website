@@ -28,8 +28,11 @@ img {
   border: solid 2px black;
   border-radius: 50%;
   width: 450px;
-  margin: 0px 25px;
   line-height: 20px;
+}
+
+.information {
+  background-color: #f3f3f3;
 }
 
 footer {
