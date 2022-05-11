@@ -1,4 +1,5 @@
 body {
+  text-align: center;
   background-color: #f3f3f3;
   margin: 200px 150px;
   margin-top: 300px;
@@ -28,7 +29,7 @@ img {
   float: left;
   border: solid 2px black;
   border-radius: 50%;
-  width: 350px;
+  width: 450px;
   margin: 0px 25px;
   line-height: 20px;
 }
