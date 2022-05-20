@@ -31,6 +31,11 @@ img {
   line-height: 20px;
 }
 
+a {
+  text-decoration: none;
+  color: #e52d92;
+}
+
 .information {
   background-color: #f3f3f3;
 }
